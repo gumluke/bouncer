@@ -42,3 +42,8 @@ explicit = true
 
 [tool.uv.sources]
 gumstack-mcp = { index = "gumstack" }
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.10",
+]

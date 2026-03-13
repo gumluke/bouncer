@@ -1,3 +1,5 @@
+line-length = 100
+
 [lint]
 select = [
     "E",      # pycodestyle errors
@@ -16,4 +18,3 @@ ignore = [
 known-first-party = ["bouncer"]
 
 [format]
-line-length = 100
