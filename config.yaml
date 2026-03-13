@@ -1,0 +1,9 @@
+name: "Bouncer"
+description: "Bouncer MCP for ensuring email deliverability"
+icon: "assets/icon.png"
+
+auth:
+  type: none
+tools:
+  - name: "example_tool"
+    description: "Example tool demonstrating credential usage"
